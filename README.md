@@ -16,3 +16,5 @@ Email: shay@shaypunter.co.uk
 
 ### Heres a cool makeup of the code I use in my repositories!
 ![](https://gitlang.mrmarble.dev/ShayPunter?format=svg)
+
+[![Shay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShayPunter&show_icons=true)](https://github.com/ShayPunter)
