@@ -11,8 +11,8 @@ I want to be the kid who knows it all! Just kidding, I hope to learn more indept
 
 ### Want to talk to me? 💬
 I don't bite... At least yet. Reach me on:
-Discord: Shay Punter#0001
-Email: shay@shaypunter.co.uk
+- Discord: Shay Punter#0001
+- Email: shay@shaypunter.co.uk
 
 ### Heres a cool makeup of the code I use in my repositories!
 ![](https://gitlang.mrmarble.dev/ShayPunter?format=svg)
