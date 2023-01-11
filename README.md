@@ -1,20 +1,16 @@
 ## Hi there 👋 I'm Shay!
-I'm a software engineer who loves to dive deep into things I don't understand.
+I'm a digital project manager & fullstack website developer (PHP). I help companies deliver amazing software solutions to their clients and consumers.
+
+### Here are some achievements ive accomplished!
+- Led and managed a large team to successfully deliver a large Minecraft event for Atlassian Big Bash 2021.
 
 ### Here's some pretty dope stuff I am working on! ⚡
 - Budgetingo (A new, very awesome budgeting app that is designed for freelancers and businesses)
 - SunaceMC (A Minecraft server that will transform the survival experience)
 - Lots of other small tidbits
 
-### Things I want to do in the future 🌱
-I want to be the kid who knows it all! Just kidding, I hope to learn more indepth an array of langauges that will allow me to create tools that help me and everyone else!
-
 ### Want to talk to me? 💬
-I don't bite... At least yet. Reach me on:
-- Discord: Shay Punter#0001
+I am always open for a chat! Reach me on:
 - Email: shay@shaypunter.co.uk
-
-### Heres a cool makeup of the code I use in my repositories!
-![](https://gitlang.mrmarble.dev/ShayPunter?format=svg)
 
 [![Shay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShayPunter&show_icons=true)](https://github.com/ShayPunter)
