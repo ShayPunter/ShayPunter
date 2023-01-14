@@ -13,4 +13,4 @@ I'm a digital project manager & fullstack website developer (PHP). I help compan
 I am always open for a chat! Reach me on:
 - Email: shay@shaypunter.co.uk
 
-[![Shay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShayPunter&show_icons=true)](https://github.com/ShayPunter)
+[![Shay's GitHub Stats](https://github-readme-stats-alpha-indol.vercel.app/api?username=ShayPunter&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true)](https://github.com/ShayPunter)
